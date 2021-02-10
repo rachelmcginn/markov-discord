@@ -1,2 +1,0 @@
-export DISCORD_TOKEN = "ODA4OTEzMzgzNjAzNTY4NjUx.YCNdSw.rnq1WACqNAtRNp_fSNZdLnjbLDg"
-
